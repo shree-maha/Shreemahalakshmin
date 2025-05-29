@@ -6,7 +6,7 @@ A passionate Software Developer with strong skills in Java and Python, and a sol
 - **Frontend**: HTML, CSS, Javascript, Bootstarp 
 - **Backend**: Django, MySQL
 - **Languages**: Python, Java
-- **Tools**: Git, Jupyter notebook, VS Code
+- **Tools**: Git & Github, Jupyter notebook, VS Code
 - **Core Subjects**: Object Oriented Programming 
 
 ## Notable Projects
